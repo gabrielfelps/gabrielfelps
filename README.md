@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, eu sou o Gabriel.
+
+Estudante de engenharia de software e aspirante a desevolvendor, no primeiro momento apredendo JAVA, mas no futuro interessado na área de tecnologias Frontend.
 
 <!--
 **gabrielfelps/gabrielfelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
