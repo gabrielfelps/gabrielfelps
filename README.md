@@ -1,4 +1,5 @@
-### Olá, eu sou o <p "style = color #7CFC00">Gabriel</p>.
+![](file:///C:/Users/Milano/Downloads/git-picture-readme.png)
+### Olá, eu sou o Gabriel! 👋
 
 Estudante de engenharia de software e aspirante a desevolvendor, no primeiro momento apredendo JAVA, mas no futuro interessado na área de tecnologias Frontend.
 
@@ -15,5 +16,4 @@ Estudante de engenharia de software e aspirante a desevolvendor, no primeiro mom
 <img align="center" alt=typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt=react src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt=node.js src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
 </div>
