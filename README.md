@@ -1,4 +1,4 @@
-### Olá, eu sou o <p "style = color #7CFC00">Gabriel.
+### Olá, eu sou o <p "style = color #7CFC00">Gabriel</p>.
 
 Estudante de engenharia de software e aspirante a desevolvendor, no primeiro momento apredendo JAVA, mas no futuro interessado na área de tecnologias Frontend.
 
