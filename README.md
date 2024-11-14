@@ -5,7 +5,7 @@
 I’m a beginner in the development field, driven by a passion for shapes, colors, and design. I chose the path of <strong>Front-end development</strong>, focusing on learning and integrating technologies like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>. While also exploring <strong>UX</strong>/<strong>UI</strong> and looking foward to start the study of <strong>React</strong>, <strong>Tailwind</strong>.<br><br>I’m always looking for challenges that allow me to improve my skills and push myself to the next level. My goal is to become a Full Stack developer, expanding my abilities and contributing to innovative projects.
 
 ### Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode&perline=3)](https://skillicons.dev)
 
 
 
