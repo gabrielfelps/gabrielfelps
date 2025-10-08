@@ -1,12 +1,40 @@
+<div align="center">
+  <h1>👋 Olá, sou o Gabriel!</h1>
+  <h3>Desenvolvedor Web focado em criar experiências web interativas e funcionais.</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/gabrielfelps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    &nbsp; <a href="mailto:gabrielfelps.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
+### 👨‍💻 Sobre Mim
+<p>
+  Sou um desenvolvedor curioso e proativo, com base sólida em <strong>HTML, CSS e JavaScript</strong>. Acredito na construção de projetos práticos para transformar teoria em soluções de software reais e intuitivas.
+</p>
 
-# <img width="30px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> Hi, I'm Gabriel!
+### 🚀 Minha Stack
 
-I’m a beginner in the development field, driven by a passion for shapes, colors, and design. I chose the path of <strong>Front-end development</strong>, focusing on learning and integrating technologies like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>. While also exploring <strong>UX</strong>/<strong>UI</strong> and looking foward to start the study of <strong>React</strong>, <strong>Tailwind</strong>.<br><br>I’m always looking for challenges that allow me to improve my skills and push myself to the next level. My goal is to become a Full Stack developer, expanding my abilities and contributing to innovative projects.
+<p>
+  <strong>Tecnologias e Ferramentas:</strong>
+</p>
 
-### Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git&perline=3)](https://skillicons.dev)
 
+<p>
+  <strong>Atualmente estudando:</strong>
+</p>
 
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs&perline=4)](https://skillicons.dev)
 
+### ✨ Projetos em Destaque
 
+<p align="center">
+  <a href="https://github.com/gabrielfelps/CalculadoraParcelasFinanciamento"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=CalculadoraParcelasFinanciamento&theme=github_dark&show_owner=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=CalculadoraParcelasFinanciamento&theme=github_light&show_owner=false" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=CalculadoraParcelasFinanciamento&theme=github_light&show_owner=false" /></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gabrielfelps/LogicaDeProgramacaoEAlgoritmosComJavascript"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=LogicaDeProgramacaoEAlgoritmosComJavascript&theme=github_dark&show_owner=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=LogicaDeProgramacaoEAlgoritmosComJavascript&theme=github_light&show_owner=false" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=LogicaDeProgramacaoEAlgoritmosComJavascript&theme=github_light&show_owner=false" /></picture></a>
+</p>
+
+### 🌱 Meus Objetivos e Próximos Passos
+<p>
+  Estou focado em aprofundar meus conhecimentos em <strong>React</strong> para a construção de Single-Page Applications (SPAs) e explorar o ecossistema <strong>Node.js</strong>. Meu objetivo é me tornar um desenvolvedor versátil, capaz de contribuir em todas as camadas de uma aplicação web.
+</p>
