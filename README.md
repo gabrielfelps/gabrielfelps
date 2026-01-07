@@ -1,40 +1,27 @@
 <div align="center">
-  <h1>👋 Olá, sou o Gabriel!</h1>
-  <h3>Desenvolvedor Web focado em criar experiências web interativas e funcionais.</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/gabrielfelps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp; <a href="mailto:gabrielfelps.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  
+## Olá, eu sou o Gabriel! 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/gabrielfelps)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielfelps.dev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/622272305112023047)
+
+Sou desenvolvedor front-end em formação, gosto de criar interfaces modernas, responsivas e bem organizadas.
+
+**Linguagens e Ferramentas:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+**Atualmente Estudando:**
+
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </div>
 
-### 👨‍💻 Sobre Mim
-<p>
-  Sou um desenvolvedor curioso e proativo, com base sólida em <strong>HTML, CSS e JavaScript</strong>. Acredito na construção de projetos práticos para transformar teoria em soluções de software reais e intuitivas.
-</p>
-
-### 🚀 Minha Stack
-
-<p>
-  <strong>Tecnologias e Ferramentas:</strong>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git&perline=3)](https://skillicons.dev)
-
-<p>
-  <strong>Atualmente estudando:</strong>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs&perline=4)](https://skillicons.dev)
-
-### ✨ Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/gabrielfelps/CalculadoraParcelasFinanciamento"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=CalculadoraParcelasFinanciamento&theme=github_dark&show_owner=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=CalculadoraParcelasFinanciamento&theme=github_light&show_owner=false" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=CalculadoraParcelasFinanciamento&theme=github_light&show_owner=false" /></picture></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gabrielfelps/LogicaDeProgramacaoEAlgoritmosComJavascript"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=LogicaDeProgramacaoEAlgoritmosComJavascript&theme=github_dark&show_owner=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=LogicaDeProgramacaoEAlgoritmosComJavascript&theme=github_light&show_owner=false" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielfelps&repo=LogicaDeProgramacaoEAlgoritmosComJavascript&theme=github_light&show_owner=false" /></picture></a>
-</p>
-
-### 🌱 Meus Objetivos e Próximos Passos
-<p>
-  Estou focado em aprofundar meus conhecimentos em <strong>React</strong> para a construção de Single-Page Applications (SPAs) e explorar o ecossistema <strong>Node.js</strong>. Meu objetivo é me tornar um desenvolvedor versátil, capaz de contribuir em todas as camadas de uma aplicação web.
-</p>
