@@ -23,5 +23,18 @@ Sou desenvolvedor front-end em formação, gosto de criar interfaces modernas, r
 **Atualmente Estudando:**
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelps&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333"
+    media="(prefers-color-scheme: light)"
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelps&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2f92&text_color=c9d1d9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelps&layout=compact" />
+</picture>
+
 </div>
 
