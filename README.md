@@ -1,22 +1,30 @@
 <div>
-  
-![Frontend Developer](https://img.shields.io/badge/%F0%9F%92%BB%20Frontend%20Developer-1f2937?style=flat)
 
-Software Engineering student at UCSAL (Universidade Católica de Salvador), passionate about learning, evolving, and building projects that transform ideas into meaningful solutions and real impact.
+# 👋 Hi, I'm Gabriel!
+🧑‍💻 <strong>Software Engineering Student @UCSAL</strong><br>
 
-### Stack:
+I build interfaces that are clean, intuitive, and actually make sense to use. I focus on writing code that is easy to understand, maintain, and scale, ensuring the logic is clear for the next developer while prioritizing a seamless user experience. I pay close attention to the fine details of performance and architecture to create software that remains robust as it grows.
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,git)
-
-### Contact Me:
-
+```typescript
+const gabriel = {
+  status: "Building scalable web solutions",
+  education: "B.S. Software Engineering @ UCSAL",
+  stack: ["TypeScript", "React", "Tailwind CSS", "Vite"],
+  interests: {
+    technical: ["Frontend Architecture", "Performance Optimization", "Scalability"],
+    personal: ["Story-driven and survival horror games", "Horror movies"]
+  },
+  currentGoal: "Applying technical expertise in Junior/Internship roles",
+};
+```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/gabrielfelps)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielfelps.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/622272305112023047)
+## Tech Stack:
+![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a1628?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![HTML](https://img.shields.io/badge/HTML-0a1628?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0a1628?style=flat-square&logo=css&logoColor=1572B6)
 
-### Languages:
-
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-1f2937?style=flat)
-![English](https://img.shields.io/badge/English-Intermediary-1f2937?style=flat)
 </div>
-
